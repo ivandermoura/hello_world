@@ -53,7 +53,8 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.display1,
             ),
-            Text("welcome to the jungle")
+            Text("welcome to the jungle"),
+             Text("welcome to the jungle baby!!")
           ],
         ),
       ),
