@@ -36,7 +36,15 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
+<<<<<<< HEAD
    
+=======
+   void _incrementCounter2() {
+    setState(() {
+      _counter++;
+    });
+  }
+>>>>>>> master
 
   @override
   Widget build(BuildContext context) {
