@@ -36,6 +36,8 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
+   
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -54,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.display1,
             ),
             Text("welcome to the jungle"),
-             Text("welcome to the jungle baby!!")
+            Text("Hallo!!")
           ],
         ),
       ),
@@ -66,3 +68,5 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+//update pertama
